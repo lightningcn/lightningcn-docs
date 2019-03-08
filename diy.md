@@ -1,6 +1,6 @@
 # DIY闪电网络节点盒子
 
-[闪电网络盒子列表]https://docs.lightningcn.com/hardware
+[闪电网络盒子列表](https://docs.lightningcn.com/hardware)
 市面上的闪电网络盒子都在1000人民币以上，而且几乎都是国外厂商，购买不方便
 
 很多都是树莓派加个盒子
