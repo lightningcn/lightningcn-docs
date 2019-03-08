@@ -22,10 +22,10 @@
 
 # 软件方案
 
-##方案一  开机即用的image
+## 方案一  开机即用的image
 
 
-##方案二 一键搭建闪电网络节点
+## 方案二 一键搭建闪电网络节点
   
   https://github.com/lightningcn/ln-node
 
