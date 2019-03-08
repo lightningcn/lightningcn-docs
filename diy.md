@@ -42,6 +42,9 @@ spruned + clightning + flume
 
 ## 其他硬件选择
 
+其他各种派，单板计算机
+
+https://en.wikipedia.org/wiki/Comparison_of_single-board_computers
 
 
 
