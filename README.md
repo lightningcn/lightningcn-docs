@@ -11,4 +11,4 @@
 
 [一键搭建⚡️闪电网络节点](https://github.com/lightningcn/ln-node/blob/master/readme.md)
 
-[raspiblitz向导式搭建⚡️闪电网络节点](https://github.com/lightningcn/raspiblitz/blob/master/README.md)
+[raspiblitz向导式搭建⚡️闪电网络节点](https://github.com/lightningcn/raspiblitz/blob/lightningcn/README.md)
