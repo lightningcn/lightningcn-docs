@@ -1,5 +1,9 @@
 # lightningcn-docs
 
+# 节点列表
+  
+[⚡️中文区节点列表](node.md)
+
 ## 硬件选择 
 
 [⚡️市场上的闪电网络硬件盒子](hardware.md)
