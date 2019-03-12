@@ -39,4 +39,4 @@
 
 # 维护者
 
-[dainels.socials@gmail.com](mailto:dainels.socials@gmail.com)
+lightningcn群
