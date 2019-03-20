@@ -62,5 +62,11 @@ todo
 
 https://en.wikipedia.org/wiki/Comparison_of_single-board_computers
 
+# 其他节点方案
+
+## https://github.com/alevchuk/minibank
+minibank这个闪电网络节点项目，用2个树莓派zerow,2个256g卡iscsi， 跑了全节点+lnd+ prometheus+ grafana
+
+## https://github.com/lncm/pi-factory
 
 
