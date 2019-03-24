@@ -3,9 +3,11 @@
 
 # 中文向导
 
-https://weibo.com/ttarticle/p/show?id=2309404252965299998074
+[手把手教你在树莓派上部署比特币闪电节点+全节点](https://weibo.com/ttarticle/p/show?id=2309404252965299998074)
 
 [人人都能成为闪电网络节点：第4章连接别的节点](https://mp.weixin.qq.com/s?__biz=MzI3MDQyMzIyNw==&mid=2247484160&idx=1&sn=55b4667ddeb1dded4b88f80730fb883e&chksm=ead006d4dda78fc2b0a71ca5414c5a2671e1924ec93901de907fcb442c9bcb98512c8f3e96e8&mpshare=1&scene=1&srcid=&pass_ticket=U9ujt%2BLah4ST3K7sbAKldKqNmQXtLwS6hw2Zlwr3jc%2B%2FVCcPBW33w5BkNPUQZ5Op#rd)
+
+[【HashBee深度】 - 树莓派（Raspberry 3b+）搭建比特币闪电网络](https://www.hashbee.com/search?s=article&q=%E6%A0%91%E8%8E%93%E6%B4%BE&f=hotness)
 
 
 # 英文向导
