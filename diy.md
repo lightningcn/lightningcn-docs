@@ -38,6 +38,10 @@ ssh admin@ip 密码为123
 
     docker-compose logs --tail 10 bitcoind
 
+    or
+
+    tail bitcoin_data/debug.log
+
 - 查看 lnd logs
 
     docker-compose logs --tail 10 lnd_bitcoin

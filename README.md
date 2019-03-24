@@ -1,8 +1,10 @@
 # lightningcn-docs
 
-# 节点列表
+## 节点列表
   
 [⚡️中文区节点列表](cnnodes.md)
+
+[⚡️各种节点浏览统计](explorer.md)
 
 ## 硬件选择 
 
@@ -16,6 +18,17 @@
 
 [raspiblitz向导式搭建⚡️闪电网络节点](https://github.com/lightningcn/raspiblitz/blob/lightningcn/README.md)
 
-[Raspberry Pi上的️⚡Lightning️⚡初学者指南](https://github.com/lightningcn/guides)
+[树莓派上的️⚡闪电网络⚡初学者指南](https://github.com/lightningcn/guides)
 
-[⚡️其他闪电网络集成方案](software.md)
+[⚡️闪电网络各种部署方案](software.md)
+
+[如何一步步搭建节点](step.md)
+
+# 闪电网络使用
+
+[闪电网络常见问题](faq.md)
+
+# 闪电网络技术
+
+[闪电网络BOLT规范](https://github.com/lightningcn/lightning-rfc/blob/lightningcn/zh_CN/00-introduction.md)
+
