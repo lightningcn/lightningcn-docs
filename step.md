@@ -5,6 +5,9 @@
 
 https://weibo.com/ttarticle/p/show?id=2309404252965299998074
 
+[人人都能成为闪电网络节点：第4章连接别的节点](https://mp.weixin.qq.com/s?__biz=MzI3MDQyMzIyNw==&mid=2247484160&idx=1&sn=55b4667ddeb1dded4b88f80730fb883e&chksm=ead006d4dda78fc2b0a71ca5414c5a2671e1924ec93901de907fcb442c9bcb98512c8f3e96e8&mpshare=1&scene=1&srcid=&pass_ticket=U9ujt%2BLah4ST3K7sbAKldKqNmQXtLwS6hw2Zlwr3jc%2B%2FVCcPBW33w5BkNPUQZ5Op#rd)
+
+
 # 英文向导
 
 [Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
