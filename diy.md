@@ -62,6 +62,8 @@ ssh admin@ip 密码为123
 
   https://github.com/rootzoll/raspiblitz/blob/master/shoppinglist_cn.md
 
+  视频 https://youtu.be/77BBQWg1n8w
+
 
 #  更低硬件需求的方案
 
@@ -92,5 +94,7 @@ todo
 其他各种派，单板计算机
 
 https://en.wikipedia.org/wiki/Comparison_of_single-board_computers
+
+https://dietpi.com/#download
 
 

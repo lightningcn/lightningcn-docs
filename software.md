@@ -27,6 +27,12 @@ minibank这个闪电网络节点项目，用2个树莓派zerow,2个256g卡iscsi�
 
 ##  https://www.opennode.co/features/
 
+## https://github.com/jochemin/raspnode
+
+## litecoin https://github.com/ecurrencyhodler/Litecoin-Resources/blob/master/scripts/install_ltc-lnd-tor_ubuntu-18.04.sh
+
+## https://gitlab.com/Goddchen/lightning-node-docker
+
 # 工具
 
 ## get my ip
