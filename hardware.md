@@ -4,6 +4,7 @@
 
  名称       |  网址   |  制造商      | 价格 ($)  |  配置 | 功耗
 ------     |   ------ | ---------  |   -------- |----- | -----
+myNode | https://mynodebtc.com | myNode | Raspberry3/4, rock64 | 
 Bitseed 3   | https://bitseed.org/ | Bitseed       |  359      | intel J1900 Quad Core    4 GB     1TB HDD， HDMI, VGA ，Network Interface    Ethernet 1 Gbps，4 x USB    ，Ubuntu 16.04 64bit， Apache2，Tor |  10W  
 CasaNode   | https://keys.casa/lightning-bitcoin-node/ |   Casa   |  300  |  Raspberry Pi 3B+ and 1TB Seagate HDD|
 The Nodl  |  https://www.nodl.it/nodl |  Nodl |  399  |  
@@ -14,6 +15,28 @@ BTCPi   | https://lightninginabox.co/product/btcpi/ |   Lightning in a Box  |  1
 BTCPi-no case | https://lightninginabox.co/product/btcpi-no-case/|   Lightning in a Box  |  139.99 ||
 Dojo   |   https://samouraiwallet.com/dojo |  Samourai Wallet    | WIP ||
 比特币闪电网络全节点服务器|http://www.lightningasic.com/btckj/41.html |  闪电矿机 | 299|| 
+
+## myNode 
+
+![](https://github.com/mynodebtc/mynode/raw/master/images/device.jpg)
+
+Bitcoin Node
+Lightning Wallet
+Simple UI / Web Interface
+VPN for Remote Access
+Bitcoin Explorer
+Electrum Server - BTC Light Wallet Server
+Ride the Lightning - Lightning Wallet
+LND Admin - Lightning Wallet
+LND Hub - Lightning Wallet Server
+Bitcoin CLI
+QuickSync - Quickly sync Bitcoin blockchain
+LND Connect - Generate QR Codes for connecting wallets
+LN Channel Backup
+Tor
+Dedicated hardware keeps you constantly and securely connected!
+
+https://mynodebtc.com
 
 ## Bitseed 3
 
