@@ -89,7 +89,7 @@ spruned + clightning + flume
 
 todo
 
-## 其他硬件选择
+## 其他选择
 
 其他各种派，单板计算机
 
@@ -97,4 +97,15 @@ https://en.wikipedia.org/wiki/Comparison_of_single-board_computers
 
 https://dietpi.com/#download
 
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSUjUlcC1I84weciiE15YePzPiTNwHLgf9VVGygZBxgB6PAjjjKTJxILCqVrbARSTGNdBhKp1upx40t/pubhtml
+
+ https://github.com/cryptoadvance/specter-diy
+
+ https://github.com/btcpayserver
+
+ https://github.com/mynodebtc/mynode
+
+ https://blog.bitcoinprivacy.net/2019/06/18/the-worlds-cheapest-full-node-is-now-a-lightning-network-hub-and-still-pretty-cheap/
+
+ https://blog.bitcoinprivacy.net/2019/12/20/news-from-the-cheapnode-project/
 
